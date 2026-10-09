@@ -1,1 +1,0 @@
-import{g as e}from"./Shell-Si2W3CNJ.js";var t=e();function n({kind:e,label:n,disabled:r,onPress:i}){return(0,t.jsx)(`button`,{type:`button`,className:`tap-btn`,"data-kind":e,disabled:r,"aria-label":e===`ready`?`준비 중 ${n}`:n,onPointerDown:e=>{(e.pointerType!==`mouse`||e.button===0)&&i()},onClick:e=>{e.detail===0&&i()},children:n})}export{n as t};
