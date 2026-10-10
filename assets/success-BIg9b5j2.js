@@ -1,0 +1,1 @@
+var e=`/assets/success-BLRK0UwO.wav`;export{e as t};
