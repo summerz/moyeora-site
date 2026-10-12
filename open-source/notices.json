@@ -7,7 +7,7 @@
     "licenses": [
       "open-source/qqwing-license.txt"
     ],
-    "modified": "모여라: ES 모듈 변환, 추측 없는 난이도별 풀이와 두 칸 합 단서 처리 추가 (2026-10-12)."
+    "modified": "모여라: ES 모듈 변환, 추측 없는 난이도별 풀이와 연결된 2~4칸 더하기 힌트 처리 추가 (2026-10-12)."
   },
   {
     "name": "@dicebear/avataaars",
