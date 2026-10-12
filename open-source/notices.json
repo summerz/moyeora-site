@@ -1,0 +1,263 @@
+[
+  {
+    "name": "QQWing",
+    "version": "1.3.4",
+    "license": "GPL-2.0-or-later",
+    "source": "https://qqwing.com/download.html",
+    "licenses": [
+      "open-source/qqwing-license.txt"
+    ],
+    "modified": "모여라: ES 모듈 변환, 추측 없는 난이도별 풀이와 두 칸 합 단서 처리 추가 (2026-10-12)."
+  },
+  {
+    "name": "@dicebear/avataaars",
+    "version": "9.4.3",
+    "license": "See LICENSE file",
+    "source": "https://github.com/dicebear/dicebear",
+    "licenses": [
+      "open-source/licenses/dicebear_avataaars-9.4.3-0.txt"
+    ]
+  },
+  {
+    "name": "@dicebear/core",
+    "version": "9.4.3",
+    "license": "MIT",
+    "source": "https://github.com/dicebear/dicebear",
+    "licenses": [
+      "open-source/licenses/dicebear_core-9.4.3-0.txt"
+    ]
+  },
+  {
+    "name": "@types/json-schema",
+    "version": "7.0.15",
+    "license": "MIT",
+    "source": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "licenses": [
+      "open-source/licenses/types_json-schema-7.0.15-0.txt"
+    ]
+  },
+  {
+    "name": "@mantine/core",
+    "version": "9.7.1",
+    "license": "MIT",
+    "source": "https://github.com/mantinedev/mantine",
+    "licenses": [
+      "open-source/licenses/mantine_core-9.7.1-0.txt"
+    ]
+  },
+  {
+    "name": "@floating-ui/react",
+    "version": "0.27.20",
+    "license": "MIT",
+    "source": "https://github.com/floating-ui/floating-ui",
+    "licenses": [
+      "open-source/licenses/floating-ui_react-0.27.20-0.txt"
+    ]
+  },
+  {
+    "name": "tabbable",
+    "version": "6.5.0",
+    "license": "MIT",
+    "source": "https://github.com/focus-trap/tabbable",
+    "licenses": [
+      "open-source/licenses/tabbable-6.5.0-0.txt"
+    ]
+  },
+  {
+    "name": "@floating-ui/react-dom",
+    "version": "2.1.9",
+    "license": "MIT",
+    "source": "https://github.com/floating-ui/floating-ui",
+    "licenses": [
+      "open-source/licenses/floating-ui_react-dom-2.1.9-0.txt"
+    ]
+  },
+  {
+    "name": "@floating-ui/dom",
+    "version": "1.8.0",
+    "license": "MIT",
+    "source": "https://github.com/floating-ui/floating-ui",
+    "licenses": [
+      "open-source/licenses/floating-ui_dom-1.8.0-0.txt"
+    ]
+  },
+  {
+    "name": "@floating-ui/core",
+    "version": "1.8.0",
+    "license": "MIT",
+    "source": "https://github.com/floating-ui/floating-ui",
+    "licenses": [
+      "open-source/licenses/floating-ui_core-1.8.0-0.txt"
+    ]
+  },
+  {
+    "name": "@floating-ui/utils",
+    "version": "0.2.12",
+    "license": "MIT",
+    "source": "https://github.com/floating-ui/floating-ui",
+    "licenses": [
+      "open-source/licenses/floating-ui_utils-0.2.12-0.txt"
+    ]
+  },
+  {
+    "name": "clsx",
+    "version": "2.1.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/clsx/v/2.1.1",
+    "licenses": [
+      "open-source/licenses/clsx-2.1.1-0.txt"
+    ]
+  },
+  {
+    "name": "react-number-format",
+    "version": "5.4.5",
+    "license": "MIT",
+    "source": "https://github.com/s-yadav/react-number-format",
+    "licenses": [
+      "open-source/licenses/react-number-format-5.4.5-0.txt"
+    ]
+  },
+  {
+    "name": "react-remove-scroll",
+    "version": "2.7.2",
+    "license": "MIT",
+    "source": "https://github.com/theKashey/react-remove-scroll",
+    "licenses": [
+      "open-source/licenses/react-remove-scroll-2.7.2-0.txt"
+    ]
+  },
+  {
+    "name": "react-remove-scroll-bar",
+    "version": "2.3.8",
+    "license": "MIT",
+    "source": "https://github.com/theKashey/react-remove-scroll-bar",
+    "licenses": []
+  },
+  {
+    "name": "react-style-singleton",
+    "version": "2.2.3",
+    "license": "MIT",
+    "source": "https://github.com/theKashey/react-style-singleton",
+    "licenses": [
+      "open-source/licenses/react-style-singleton-2.2.3-0.txt"
+    ]
+  },
+  {
+    "name": "tslib",
+    "version": "2.8.1",
+    "license": "0BSD",
+    "source": "https://github.com/Microsoft/tslib",
+    "licenses": [
+      "open-source/licenses/tslib-2.8.1-0.txt"
+    ]
+  },
+  {
+    "name": "get-nonce",
+    "version": "1.0.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/get-nonce/v/1.0.1",
+    "licenses": [
+      "open-source/licenses/get-nonce-1.0.1-0.txt"
+    ]
+  },
+  {
+    "name": "use-callback-ref",
+    "version": "1.3.3",
+    "license": "MIT",
+    "source": "https://github.com/theKashey/use-callback-ref/",
+    "licenses": [
+      "open-source/licenses/use-callback-ref-1.3.3-0.txt"
+    ]
+  },
+  {
+    "name": "use-sidecar",
+    "version": "1.1.3",
+    "license": "MIT",
+    "source": "https://github.com/theKashey/use-sidecar",
+    "licenses": [
+      "open-source/licenses/use-sidecar-1.1.3-0.txt"
+    ]
+  },
+  {
+    "name": "detect-node-es",
+    "version": "1.1.0",
+    "license": "MIT",
+    "source": "https://github.com/thekashey/detect-node",
+    "licenses": [
+      "open-source/licenses/detect-node-es-1.1.0-0.txt"
+    ]
+  },
+  {
+    "name": "type-fest",
+    "version": "5.10.0",
+    "license": "(MIT OR CC0-1.0)",
+    "source": "https://www.npmjs.com/package/type-fest/v/5.10.0",
+    "licenses": [
+      "open-source/licenses/type-fest-5.10.0-0.txt",
+      "open-source/licenses/type-fest-5.10.0-1.txt"
+    ]
+  },
+  {
+    "name": "tagged-tag",
+    "version": "1.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/tagged-tag/v/1.0.0",
+    "licenses": [
+      "open-source/licenses/tagged-tag-1.0.0-0.txt"
+    ]
+  },
+  {
+    "name": "@mantine/hooks",
+    "version": "9.7.1",
+    "license": "MIT",
+    "source": "https://github.com/mantinedev/mantine",
+    "licenses": [
+      "open-source/licenses/mantine_hooks-9.7.1-0.txt"
+    ]
+  },
+  {
+    "name": "react",
+    "version": "19.3.0",
+    "license": "MIT",
+    "source": "https://github.com/react/react",
+    "licenses": [
+      "open-source/licenses/react-19.3.0-0.txt"
+    ]
+  },
+  {
+    "name": "react-dom",
+    "version": "19.3.0",
+    "license": "MIT",
+    "source": "https://github.com/react/react",
+    "licenses": [
+      "open-source/licenses/react-dom-19.3.0-0.txt"
+    ]
+  },
+  {
+    "name": "scheduler",
+    "version": "0.28.0",
+    "license": "MIT",
+    "source": "https://github.com/react/react",
+    "licenses": [
+      "open-source/licenses/scheduler-0.28.0-0.txt"
+    ]
+  },
+  {
+    "name": "three",
+    "version": "0.186.0",
+    "license": "MIT",
+    "source": "https://github.com/mrdoob/three.js",
+    "licenses": [
+      "open-source/licenses/three-0.186.0-0.txt"
+    ]
+  },
+  {
+    "name": "@dimforge/rapier3d-compat",
+    "version": "0.21.0",
+    "license": "Apache-2.0",
+    "source": "https://github.com/dimforge/rapier",
+    "licenses": [
+      "open-source/licenses/dimforge_rapier3d-compat-0.21.0-0.txt"
+    ]
+  }
+]
