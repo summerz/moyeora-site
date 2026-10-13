@@ -10,6 +10,16 @@
     "modified": "모여라: ES 모듈 변환, 추측 없는 난이도별 풀이와 연결된 2~4칸 더하기 힌트 처리 추가 (2026-10-12)."
   },
   {
+    "name": "Fluent UI Emoji",
+    "version": "main@2026-10-13",
+    "license": "MIT",
+    "source": "https://github.com/microsoft/fluentui-emoji",
+    "licenses": [
+      "open-source/fluentui-emoji-license.txt"
+    ],
+    "modified": "모여라: 기억나니? 카드용으로 일부 Flat 스타일 SVG 이미지를 골라 공백만 정리해 사용"
+  },
+  {
     "name": "@dicebear/core",
     "version": "10.7.0",
     "license": "MIT",
