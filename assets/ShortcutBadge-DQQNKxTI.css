@@ -1,0 +1,1 @@
+.shortcut-badge{display:none}@media (width>=600px) and (hover:hover) and (pointer:fine){.shortcut-badge{box-sizing:border-box;background:var(--ink);color:#fff;border-radius:4px;flex-shrink:0;justify-content:center;align-items:center;min-width:18px;height:18px;padding:0 4px;font-family:system-ui,sans-serif;font-size:11px;font-weight:700;line-height:1;display:inline-flex}}
