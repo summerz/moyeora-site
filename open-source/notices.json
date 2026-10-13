@@ -10,30 +10,22 @@
     "modified": "모여라: ES 모듈 변환, 추측 없는 난이도별 풀이와 연결된 2~4칸 더하기 힌트 처리 추가 (2026-10-12)."
   },
   {
-    "name": "@dicebear/avataaars",
-    "version": "9.4.3",
-    "license": "See LICENSE file",
-    "source": "https://github.com/dicebear/dicebear",
-    "licenses": [
-      "open-source/licenses/dicebear_avataaars-9.4.3-0.txt"
-    ]
-  },
-  {
     "name": "@dicebear/core",
-    "version": "9.4.3",
+    "version": "10.7.0",
     "license": "MIT",
     "source": "https://github.com/dicebear/dicebear",
     "licenses": [
-      "open-source/licenses/dicebear_core-9.4.3-0.txt"
+      "open-source/licenses/dicebear_core-10.7.0-0.txt"
     ]
   },
   {
-    "name": "@types/json-schema",
-    "version": "7.0.15",
-    "license": "MIT",
-    "source": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "name": "@dicebear/styles",
+    "version": "10.6.0",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "source": "https://github.com/dicebear/styles",
     "licenses": [
-      "open-source/licenses/types_json-schema-7.0.15-0.txt"
+      "open-source/licenses/dicebear_styles-10.6.0-0.txt",
+      "open-source/licenses/dicebear_styles-10.6.0-1.txt"
     ]
   },
   {
