@@ -1,1 +1,0 @@
-import{b as e}from"./Shell-EV5A-oWA.js";var t=e();function n({children:e}){return(0,t.jsx)(`kbd`,{className:`shortcut-badge`,"aria-hidden":`true`,children:e})}export{n as t};
