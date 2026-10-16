@@ -1,0 +1,1 @@
+function e(e){return/^Key[A-Z]$/.test(e)?e.slice(3).toLowerCase():null}function t(e){let t=/^(?:Digit|Numpad)([0-9])$/.exec(e);return t?Number(t[1]):null}export{e as n,t};

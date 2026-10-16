@@ -1,1 +1,0 @@
-import{pt as e}from"./Shell-DPsLe8-C.js";import{t}from"./App-xsqdFisC.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as default};

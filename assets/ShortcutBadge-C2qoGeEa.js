@@ -1,1 +1,0 @@
-import{pt as e}from"./Shell-DPsLe8-C.js";var t=e();function n({children:e}){return(0,t.jsx)(`kbd`,{className:`shortcut-badge`,"aria-hidden":`true`,children:e})}export{n as t};

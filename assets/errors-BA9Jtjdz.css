@@ -1,0 +1,1 @@
+.game-intro{flex-direction:column;gap:16px;display:flex}.game-intro__hero{flex-shrink:0;justify-content:center;align-items:center;height:168px;display:flex}.lobby-room-code{font-size:56px;line-height:1.1}@media (width<=360px){.lobby-room-code{font-size:50px}}
