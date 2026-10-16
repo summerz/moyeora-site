@@ -1,1 +1,0 @@
-import{b as e,dt as t}from"./Shell-BOtleCiG.js";import{t as n}from"./App-B4vM_AK7.js";var r=t(),i=e();(0,r.createRoot)(document.getElementById(`root`)).render((0,i.jsx)(n,{}));
