@@ -1,0 +1,181 @@
+{
+  "encoding": {
+    "codec": "mp3",
+    "bitrate": 64000,
+    "sampleRate": 44100,
+    "channels": 2
+  },
+  "tracks": [
+    {
+      "category": "cheerful",
+      "title": "One_More_Round",
+      "file": "cheerful/one-more-round-ee86b9996e5b.mp3",
+      "durationSeconds": 124.343,
+      "bytes": 995203,
+      "source": "cheerful-One_More_Round.mp3",
+      "sourceBytes": 2990351
+    },
+    {
+      "category": "cheerful",
+      "title": "Rubber Band Arena",
+      "file": "cheerful/rubber-band-arena-a51597c520fa.mp3",
+      "durationSeconds": 125.71,
+      "bytes": 1006279,
+      "source": "cheerful-Rubber Band Arena.mp3",
+      "sourceBytes": 4063823
+    },
+    {
+      "category": "cheerful",
+      "title": "Tropical Bounce Bazaar",
+      "file": "cheerful/tropical-bounce-bazaar-6f7a21282e87.mp3",
+      "durationSeconds": 204.39,
+      "bytes": 1635726,
+      "source": "cheerful-Tropical Bounce Bazaar.mp3",
+      "sourceBytes": 6609092
+    },
+    {
+      "category": "cheerful",
+      "title": "抢拍派对",
+      "file": "cheerful/track-683c73d525e4.mp3",
+      "durationSeconds": 198.31,
+      "bytes": 1587034,
+      "source": "cheerful-抢拍派对.mp3",
+      "sourceBytes": 6425437
+    },
+    {
+      "category": "cheerful",
+      "title": "木の実のバウンス",
+      "file": "cheerful/track-252f76e30595.mp3",
+      "durationSeconds": 197.99,
+      "bytes": 1584526,
+      "source": "cheerful-木の実のバウンス.mp3",
+      "sourceBytes": 6401494
+    },
+    {
+      "category": "funny",
+      "title": "Button_Mash_Morning",
+      "file": "funny/button-mash-morning-fa6ffb7e4b49.mp3",
+      "durationSeconds": 151.066,
+      "bytes": 1208989,
+      "source": "funny-Button_Mash_Morning.mp3",
+      "sourceBytes": 3631710
+    },
+    {
+      "category": "funny",
+      "title": "Button_Mashing_Brunch",
+      "file": "funny/button-mashing-brunch-b98c3c18bb65.mp3",
+      "durationSeconds": 127.007,
+      "bytes": 1016519,
+      "source": "funny-Button_Mashing_Brunch.mp3",
+      "sourceBytes": 3054299
+    },
+    {
+      "category": "funny",
+      "title": "Instrumental_background_music_",
+      "file": "funny/instrumental-background-music-3303aa514dbf.mp3",
+      "durationSeconds": 159.608,
+      "bytes": 1277326,
+      "source": "funny-Instrumental_background_music_.mp3",
+      "sourceBytes": 3836719
+    },
+    {
+      "category": "funny",
+      "title": "Instrumental_background_music_2",
+      "file": "funny/instrumental-background-music-2-7e24b6fd3670.mp3",
+      "durationSeconds": 125.388,
+      "bytes": 1003563,
+      "source": "funny-Instrumental_background_music_2.mp3",
+      "sourceBytes": 3015429
+    },
+    {
+      "category": "intro",
+      "title": "Bouncy-Start",
+      "file": "intro/bouncy-start-b45cc939f4da.mp3",
+      "durationSeconds": 10.814,
+      "bytes": 86978,
+      "source": "intro-Bouncy-Start.mp3",
+      "sourceBytes": 283896
+    },
+    {
+      "category": "medium",
+      "title": "Bouncy-Island-Groove",
+      "file": "medium/bouncy-island-groove-4b531ec172aa.mp3",
+      "durationSeconds": 135.214,
+      "bytes": 1082348,
+      "source": "medium-Bouncy-Island-Groove.mp3",
+      "sourceBytes": 3351406
+    },
+    {
+      "category": "medium",
+      "title": "Café da Tarde",
+      "file": "medium/cafe-da-tarde-04e0b46eaedf.mp3",
+      "durationSeconds": 194.83,
+      "bytes": 1559239,
+      "source": "medium-Café da Tarde.mp3",
+      "sourceBytes": 6290653
+    },
+    {
+      "category": "medium",
+      "title": "Cozy Corner",
+      "file": "medium/cozy-corner-5fd92804b1cc.mp3",
+      "durationSeconds": 204.83,
+      "bytes": 1639278,
+      "source": "medium-Cozy Corner.mp3",
+      "sourceBytes": 6595154
+    },
+    {
+      "category": "medium",
+      "title": "Soft Loop Sunday",
+      "file": "medium/soft-loop-sunday-6ce3c7d059e4.mp3",
+      "durationSeconds": 190.87,
+      "bytes": 1527474,
+      "source": "medium-Soft Loop Sunday.mp3",
+      "sourceBytes": 6145768
+    },
+    {
+      "category": "medium",
+      "title": "围炉小曲",
+      "file": "medium/track-1312c1bd2287.mp3",
+      "durationSeconds": 169.55,
+      "bytes": 1356947,
+      "source": "medium-围炉小曲.mp3",
+      "sourceBytes": 5460934
+    },
+    {
+      "category": "slow",
+      "title": "Felt-Piano-Warm-Air",
+      "file": "slow/felt-piano-warm-air-93c2ee28a461.mp3",
+      "durationSeconds": 172.39,
+      "bytes": 1379726,
+      "source": "slow-Felt-Piano-Warm-Air.mp3",
+      "sourceBytes": 5560451
+    },
+    {
+      "category": "slow",
+      "title": "Soft-Loop",
+      "file": "slow/soft-loop-7842c1b4bddb.mp3",
+      "durationSeconds": 128.374,
+      "bytes": 1027595,
+      "source": "slow-Soft-Loop.mp3",
+      "sourceBytes": 3033546
+    },
+    {
+      "category": "slow",
+      "title": "Still-Point",
+      "file": "slow/still-point-93eab50591fa.mp3",
+      "durationSeconds": 175.27,
+      "bytes": 1402714,
+      "source": "slow-Still-Point.mp3",
+      "sourceBytes": 5632773
+    },
+    {
+      "category": "slow",
+      "title": "Warm-Loop",
+      "file": "slow/warm-loop-5a97f247493c.mp3",
+      "durationSeconds": 174.374,
+      "bytes": 1395608,
+      "source": "slow-Warm-Loop.mp3",
+      "sourceBytes": 4149225
+    }
+  ]
+}

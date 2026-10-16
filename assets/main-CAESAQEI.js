@@ -1,0 +1,1 @@
+import{pt as e}from"./Shell-Dwa47wcl.js";import{t}from"./App-C_haa79A.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as default};

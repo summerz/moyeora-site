@@ -1,1 +1,0 @@
-import{b as e,ht as t}from"./Shell-C9NbN0cy.js";import{t as n}from"./App-BYJVlpBy.js";var r=e();function i(){return(0,r.jsx)(n,{game:`invaders-chaos`})}t((0,r.jsx)(i,{}));
