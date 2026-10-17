@@ -1,0 +1,1 @@
+import{ht as e}from"./Shell-3dfy764G.js";import{t}from"./AvatarStrip-wfFMMLKU.js";import{t as n}from"./PlayerStatusDock-B4vgnUpn.js";import{n as r}from"./SubmitBanner-CaRcyqd2.js";var i=e();function a({room:e,label:a,fit:o=!1}){return(0,i.jsx)(n,{fit:o,notice:(0,i.jsx)(r,{room:e,label:a,compact:!0}),children:(0,i.jsx)(t,{room:e})})}export{a as t};
