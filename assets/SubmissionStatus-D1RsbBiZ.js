@@ -1,1 +1,0 @@
-import{ht as e}from"./Shell-BZ6Sv4fh.js";import{t}from"./AvatarStrip-Cqb62co_.js";import{t as n}from"./PlayerStatusDock-DOcoCDAa.js";import{r}from"./SubmitBanner-CSO0xZ8q.js";var i=e();function a({room:e,label:a,fit:o=!1}){return(0,i.jsx)(n,{fit:o,notice:(0,i.jsx)(r,{room:e,label:a,compact:!0}),children:(0,i.jsx)(t,{room:e})})}export{a as t};
