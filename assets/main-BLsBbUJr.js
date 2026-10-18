@@ -1,0 +1,1 @@
+import{ht as e}from"./Shell-BZ6Sv4fh.js";import{t}from"./App-BH5Nwf2o.js";var n=e();function r(){return(0,n.jsx)(t,{game:`invaders-chaos`})}export{r as default};

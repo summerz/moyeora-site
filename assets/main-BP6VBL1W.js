@@ -1,1 +1,0 @@
-import{ht as e}from"./Shell-DNdxwABn.js";import{t}from"./App-0x8lSHX5.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as default};
