@@ -1,0 +1,1 @@
+import{ht as e}from"./Shell-DWiQW0tW.js";var t=e();function n({onClick:e,text:n=`완성!`}){return(0,t.jsx)(`button`,{type:`button`,className:`complete-stamp jua`,onClick:e,"aria-label":`${n} 눌러서 결과 보기`,children:n})}export{n as t};
