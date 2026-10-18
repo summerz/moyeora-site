@@ -1,1 +1,0 @@
-import{ht as e}from"./Shell-BKPSvDXf.js";var t=e();function n({items:e,className:n=``}){return(0,t.jsx)(`dl`,{className:`stat-summary ${n}`,children:e.map(({label:e,value:n})=>(0,t.jsxs)(`div`,{className:`stat-summary__item`,children:[(0,t.jsx)(`dt`,{children:e}),(0,t.jsx)(`dd`,{className:`jua`,children:n})]},e))})}export{n as t};

@@ -1,0 +1,1 @@
+import{ht as e}from"./Shell-BtKGQ8fb.js";import{t}from"./App-BLpz8Egb.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as default};
