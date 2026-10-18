@@ -1,0 +1,1 @@
+import{ht as e}from"./Shell-BsRHkURy.js";import{t}from"./App-DFyn2mX7.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as default};
