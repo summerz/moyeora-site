@@ -1,0 +1,1 @@
+import{ht as e}from"./Shell--OWLr2Rb.js";import{t}from"./App-BHBliT4r.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as default};
