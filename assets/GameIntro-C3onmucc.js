@@ -1,1 +1,0 @@
-import{ht as e}from"./Shell-CCJxb2RR.js";import{t}from"./GameHero-CUW30aP4.js";import{t as n}from"./GameTitle-B2vvw7ru.js";var r=e();function i({id:e}){return(0,r.jsxs)(`div`,{className:`game-intro`,children:[(0,r.jsx)(n,{id:e}),(0,r.jsx)(`div`,{className:`game-intro__hero`,children:(0,r.jsx)(t,{id:e,size:140})})]})}export{i as t};
