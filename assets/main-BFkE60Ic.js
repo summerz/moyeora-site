@@ -1,0 +1,1 @@
+import{Ot as e}from"./Shell-Co-KD-Lu.js";import{t}from"./App-YUA7uGJ3.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as default};
