@@ -1,1 +1,0 @@
-import{Ot as e}from"./Shell-Co-KD-Lu.js";import{t}from"./RoundProgress-2iyRWPm3.js";var n=e();function r({round:e,rounds:r,done:i,children:a}){return(0,n.jsxs)(`div`,{className:`round-status`,children:[(0,n.jsx)(t,{round:e,rounds:r,done:i}),(0,n.jsx)(`div`,{className:`round-status__detail jua`,children:a})]})}export{r as t};

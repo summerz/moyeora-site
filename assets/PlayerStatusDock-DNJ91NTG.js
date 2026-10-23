@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cx0BB4qO.js";var t=e();function n({children:e,notice:n,fit:r=!1}){return(0,t.jsx)(`div`,{className:`submission-status${r?` submission-status--fit`:``}`,children:(0,t.jsxs)(`div`,{className:`submission-status__inner`,children:[n&&(0,t.jsx)(`div`,{className:`submission-status__notice`,children:n}),e]})})}export{n as t};
